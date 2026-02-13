@@ -3,6 +3,11 @@
   "displayName": "Code Snake Game",
   "description": "Play snake game in your code editor - snake passes through empty lines and breaks code on collision!",
   "version": "1.0.0",
+  "publisher": "vikasavnish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivikasavnish/uno-vscode"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
